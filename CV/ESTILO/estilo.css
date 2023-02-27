@@ -1,0 +1,20 @@
+p {
+    color:blueviolet;
+  }
+
+  /**
+  comentarios*/
+
+  h1 {
+    font-weight: bold;
+  }
+
+  .clasetitulo{
+    font-family: 'Golos Text', sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    font-weight: 200;
+    column-rule-color: blueviolet;
+  }
+
+  
